@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AntMatch", "AntMatch\AntMatch.csproj", "{08A7BA45-7D7C-459F-B0E6-324FEF0C2BD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08A7BA45-7D7C-459F-B0E6-324FEF0C2BD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08A7BA45-7D7C-459F-B0E6-324FEF0C2BD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08A7BA45-7D7C-459F-B0E6-324FEF0C2BD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08A7BA45-7D7C-459F-B0E6-324FEF0C2BD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5DF0E0C-150E-4D9A-B0A4-8D380B438E1F}
+	EndGlobalSection
+EndGlobal
